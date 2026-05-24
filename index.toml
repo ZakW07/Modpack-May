@@ -1621,6 +1621,11 @@ hash = "281593eae2857d26522a0084f7441ce8367cea75b23832d4ddbd435fa2cb02f2"
 metafile = true
 
 [[files]]
+file = "mods/ae2-universal-press.pw.toml"
+hash = "9566684baf701579671881b6cf73c3c0eb03a78ce8e67328cb16e5eea8560435"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -1628,6 +1633,11 @@ metafile = true
 [[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "58b8a98530d56114926704b56285d7a691d2a974ace74e8fd7998893e48830d8"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
 metafile = true
 
 [[files]]
@@ -1653,6 +1663,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "896d14f8df7c6d3ed5b6ca292220fa87c1c305f50cbdca43034a3f0414be72ca"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
 metafile = true
 
 [[files]]
@@ -1801,6 +1816,10 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes-5.0.4.jar"
+hash = "8a52aae4f9bc52a360342acd654f1c05930927356c161c4e94fd796684e660f9"
+
+[[files]]
 file = "mods/clean-tooltips.pw.toml"
 hash = "bfae48d707113dd178b25b16620c8f4bf5a27ea82c9b1975edeb89a7f196048d"
 metafile = true
@@ -1833,6 +1852,11 @@ metafile = true
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
@@ -2250,7 +2274,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
+hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
 metafile = true
 
 [[files]]
@@ -2590,6 +2614,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
+metafile = true
+
+[[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "8a32a12fac64157e5773f60611f565e1335c4d5b9b5c7f679de5f70dc65e6409"
 metafile = true
 
 [[files]]
