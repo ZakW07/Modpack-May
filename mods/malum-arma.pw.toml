@@ -1,0 +1,13 @@
+name = "Malum - Arma"
+filename = "malumarma-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uQxjcep8/versions/1tLe9f0L/malumarma-1.0.5.jar"
+hash-format = "sha512"
+hash = "20d6fc306de0121e0cf1b5392ccfe85b36c7ec87a71599542a62ff20ae974de402af593ab64f686c03d4377b8774fdabeb83f51bdf0726379b7522b57ab6d5db"
+
+[update]
+[update.modrinth]
+mod-id = "uQxjcep8"
+version = "1tLe9f0L"

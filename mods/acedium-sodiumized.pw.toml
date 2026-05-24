@@ -1,0 +1,13 @@
+name = "Acedium Sodiumized"
+filename = "acedium-0.3.4+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sBwZemk4/versions/Gw2iguz9/acedium-0.3.4%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "75050882f405dc2c4b89df687166494da2211874f02d7f78de74a0207cf6663f0dd2685d20841451de4fa2311bc532de0221381ef814b5387770350c9b2b8080"
+
+[update]
+[update.modrinth]
+mod-id = "sBwZemk4"
+version = "Gw2iguz9"
