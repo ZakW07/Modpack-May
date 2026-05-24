@@ -1,6 +1,6 @@
 name = "dungeons arise seven seas sparse structures compat"
 filename = "wdasspiratecompat.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yvjCM9FB/versions/BzLuY8LF/wdasspiratecompat.jar"
