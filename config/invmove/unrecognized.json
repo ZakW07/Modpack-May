@@ -1,0 +1,34 @@
+{
+  "allowMovement": {
+    "net.conczin.mca.client.gui.DestinyScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "com.tacz.guns.client.gui.GunRefitScreen": true,
+    "net.puffish.skillsmod.client.gui.SkillsScreen": true,
+    "net.neoforged.neoforge.client.gui.ModListScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "com.sergo467.disablefog.gui.screens.ConfigurationScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "net.conczin.mca.client.gui.FamilyTreeSearchScreen": true,
+    "com.iafenvoy.jupiter.render.screen.ConfigSelectScreen": true,
+    "com.iafenvoy.jupiter.render.screen.ConfigContainerScreen": true,
+    "com.iafenvoy.jupiter.render.screen.SingleConfigScreen": true,
+    "net.minecraft.client.gui.screens.options.MouseSettingsScreen": true
+  },
+  "hideBackground": {
+    "com.tacz.guns.client.gui.GunRefitScreen": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.supermartijn642.core.gui.WidgetScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "net.conczin.mca.client.gui.FamilyTreeSearchScreen": true
+  }
+}

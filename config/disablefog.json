@@ -1,0 +1,56 @@
+{
+  "enabled": true,
+  "enablePatchIrisUniforms": true,
+  "irisUniforms": {
+    "water": true,
+    "lava": true,
+    "powderSnow": true,
+    "blindness": true,
+    "darkness": true
+  },
+  "global": {
+    "terrain": "DISABLED",
+    "sky": "DISABLED",
+    "thick": "DISABLED",
+    "water": "DISABLED",
+    "lava": "DISABLED",
+    "powderSnow": "ENABLED",
+    "blindness": "DISABLED",
+    "darkness": "DISABLED"
+  },
+  "dimensions": {
+    "ae2:spatial_storage": {
+      "enabled": true,
+      "fog": {}
+    },
+    "minecraft:overworld": {
+      "enabled": true,
+      "fog": {
+        "terrain": "DISABLED",
+        "sky": "DISABLED",
+        "thick": "DISABLED",
+        "water": "DISABLED",
+        "lava": "DISABLED",
+        "powderSnow": "DISABLED",
+        "blindness": "DISABLED",
+        "darkness": "DISABLED"
+      }
+    },
+    "iceandfire:dread_land": {
+      "enabled": true,
+      "fog": {}
+    },
+    "eternal_starlight:starlight": {
+      "enabled": true,
+      "fog": {}
+    },
+    "minecraft:the_nether": {
+      "enabled": true,
+      "fog": {}
+    },
+    "minecraft:the_end": {
+      "enabled": true,
+      "fog": {}
+    }
+  }
+}
