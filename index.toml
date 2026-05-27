@@ -2092,11 +2092,6 @@ hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
-file = "mods/disable-fog.pw.toml"
-hash = "385c6e74476b62d61e2b482fe989701749a49aba3153f4ce35a697c83b121c8a"
-metafile = true
-
-[[files]]
 file = "mods/draconic-evolution-render-patcher.pw.toml"
 hash = "431b528e021f2f2bc58717683130d89594bfccf8eeadb0ba23ba7c7ed6b698a3"
 metafile = true
@@ -2973,11 +2968,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "ef870d22b5ee7e2718a1d849680d25103aae0f5a0b7c569b99032803ea772e68"
-metafile = true
-
-[[files]]
-file = "mods/trek.pw.toml"
-hash = "00afcbfc1b6771e8650e868dcdb6f0aac3a319b8de9bf363530ce7a62bd807fe"
 metafile = true
 
 [[files]]
