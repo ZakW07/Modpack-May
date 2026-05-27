@@ -1,13 +1,13 @@
 name = "Transcending Trident"
 filename = "transcendingtrident-1.21.1-4.9.jar"
-side = "server"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7GxZi46W/versions/U77F6FLq/transcendingtrident-1.21.1-4.9.jar"
-hash-format = "sha512"
-hash = "de21b182ad01bd43eef6af72d48938d0ca38d39cc1c8e9e91532b8092d43072e8db9b60b52ca097693e7d929a71fe968d1ca59ab481bad930c5d6659eeb99416"
+hash-format = "sha1"
+hash = "a9138d86c4085c46cee719af479c6e48f4690478"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "7GxZi46W"
-version = "U77F6FLq"
+[update.curseforge]
+file-id = 6184951
+project-id = 378618
