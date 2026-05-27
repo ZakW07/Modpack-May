@@ -1665,6 +1665,11 @@ hash = "014ee07aad95d234a4be89ab018d7cc72b9b41999bf0d5f45de11b509a10bd5e"
 metafile = true
 
 [[files]]
+file = "mods/apothic-combat.pw.toml"
+hash = "1b48a649e684ae1b73f49676450ab123ad28c02459cf28b2bb231b9c1112ca3b"
+metafile = true
+
+[[files]]
 file = "mods/apothic-enchanting.pw.toml"
 hash = "803464cf825c0bdb8043e8cbb8667dcbed01a50fd70b0525215dcd177683a8dc"
 metafile = true
