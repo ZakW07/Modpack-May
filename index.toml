@@ -1889,6 +1889,11 @@ hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "376b22883dd4642dee7bf1e727440cb01d87d72293952a1ddf0c2f1c25fa7863"
+metafile = true
+
+[[files]]
 file = "mods/connector-2.0.0-beta.14+1.21.1+dev-gbbc1dff-full.jar"
 hash = "066631c0a247023ce75ba971b55711749aefeb32bf3566740699f6e57465dc18"
 
@@ -2596,6 +2601,11 @@ hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
+file = "mods/more-pylons.pw.toml"
+hash = "2679433f7de363974c387ae8d169a1c89b4808f26701db94f26a83cbf0b08b82"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -2763,6 +2773,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "3efd463a8f8d94f8ad3542c0eada16f403fba48f4db4f1d51c4c900113644a27"
+metafile = true
+
+[[files]]
+file = "mods/pylons.pw.toml"
+hash = "a503bf930c565cec29590565c5fb07a81d61e818d39a592042d484c37cacc42a"
 metafile = true
 
 [[files]]
