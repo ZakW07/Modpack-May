@@ -1655,6 +1655,11 @@ hash = "fe3f752f78cd25803f7013c94bb602567bf242be165462f2287b430d457a144e"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis-modern-ragnarok.pw.toml"
+hash = "7b48cdee710179ee775dcadf4917283e3f3c819df0d64c30bc97c2c540d75a66"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "1330747080d0ef39753d51f3108ca77281a6f2b87da8ac95c90e967202e8ab40"
 metafile = true
@@ -2374,6 +2379,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "10c6e9563ce848472a6e817c05f5801da01a0d941bee2bf9ba7a0e848cf0a334"
+metafile = true
+
+[[files]]
+file = "mods/gunsmith-lib.pw.toml"
+hash = "3336aba6dd9cc0d7a8705698b65c0c5f9d8749976a3e04f48a87d09fb4e5e1c1"
 metafile = true
 
 [[files]]
