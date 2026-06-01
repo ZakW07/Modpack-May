@@ -1998,6 +1998,11 @@ hash = "e0eea3fa3d5911be14d85fcc5ded11206f7ea5c71adfb98a34e5fd08de693d0d"
 metafile = true
 
 [[files]]
+file = "mods/create-nowheel.pw.toml"
+hash = "8205f415e163e4e5f70a997d17e68bc8d71758e081307a78837b9d41010846ab"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
 metafile = true
@@ -2015,6 +2020,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "f802c6f488a0141d9a51624bcce33c80c2c3d4bea731ea3f9301a6ec9d36cf4d"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks-fix-edition.pw.toml"
+hash = "5d045c308e7a247814811eb0f256f0a2e9afc4496a8188fddd07c3e8aa68c4ed"
 metafile = true
 
 [[files]]
@@ -2888,6 +2898,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "5f0d17d236aad8f111b519c006988c8bf536ee569028c0a34690c4cc229b6403"
 metafile = true
 
 [[files]]
